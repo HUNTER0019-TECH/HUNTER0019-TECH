@@ -1,89 +1,83 @@
 <div align="center">
 
-<!-- 🎬 HERO BANNER & INTRO -->
-<img src="./hero.svg?v=3" alt="Hi, I'm Hunter — Full-Stack Shinobi & Developer" width="100%"/>
+<!-- 🌌 HERO BANNER: GOJO SATORU / UNLIMITED VOID -->
+<img src="./hero.svg?v=gojo-1" alt="Hi, I'm Hunter — Special Grade Sorcerer & Architect" width="100%"/>
 
 <br/><br/>
 
-<!-- 🍥 TEAM 7 CHIBI DANCE -->
-<img src="./team7-dance.gif" alt="Team 7 Chibi Dance" width="260"/>
-
-<br/>
-
-<!-- 🍥 MY NINJA WAY -->
-<img src="./ninja-way.svg?v=3" alt="My Ninja Way — What I Build" width="100%"/>
+<!-- 🤞 GOJO DOMAIN EXPANSION ANIMATION -->
+<img src="./gojo-domain.gif" alt="Gojo Satoru Domain Expansion: Unlimited Void" width="360"/>
 
 <br/><br/>
 
-<!-- 🔦 JUTSU ARSENAL (TECH STACK) -->
-<img src="./jutsu-stack.svg?v=3" alt="Jutsu Arsenal — Tech Stack" width="100%"/>
+<!-- 🌌 DOMAIN EXPANSION: UNLIMITED VOID -->
+<img src="./ninja-way.svg?v=gojo-1" alt="Domain Expansion: Unlimited Void — What I Build" width="100%"/>
 
 <br/><br/>
 
-<!-- 🪪 NINJA REGISTRATION + LIVE MISSION DASHBOARD -->
-<img src="./ninja-id.svg?v=3" alt="Ninja Registration Card and Live Shinobi Dashboard" width="100%"/>
+<!-- 🟣 CURSED ARSENAL: TECH STACK -->
+<img src="./jutsu-stack.svg?v=gojo-1" alt="Cursed Arsenal — Tech Stack" width="100%"/>
+
+<br/><br/>
+
+<!-- 🪪 SPECIAL GRADE SORCERER ID + LIVE MISSION DASHBOARD -->
+<img src="./ninja-id.svg?v=gojo-1" alt="Tokyo Jujutsu High Sorcerer ID and Live Mission Dashboard" width="100%"/>
 
 <br/><br/>
 
 </div>
 
-## 🍥 S-Rank Missions & Featured Projects
+## 🌌 Special Grade Missions & Innate Techniques
 
 <table>
-<tr><th>Mission / Project</th><th>What it is</th><th>Jutsu Used</th><th align="center">Rank</th></tr>
-<tr><td><b>🔥 Rasengan Engine</b></td><td>Cinematic anime interactive web experience with scroll-driven sound & GSAP transformations</td><td><code>TypeScript</code> <code>GSAP</code> <code>Three.js</code></td><td align="center"><b>S-Rank</b></td></tr>
-<tr><td><b>⚡ Chidori Stream API</b></td><td>High-throughput asynchronous microservice architecture with sub-millisecond response latency</td><td><code>Node.js</code> <code>Python</code> <code>FastAPI</code></td><td align="center"><b>S-Rank</b></td></tr>
-<tr><td><b>👁️ Sharingan UI Kit</b></td><td>Apple-inspired glassmorphism component system built with dark-mode cyberpunk accents</td><td><code>React</code> <code>Next.js</code> <code>Tailwind</code></td><td align="center"><b>A-Rank</b></td></tr>
-<tr><td><b>🍃 Hidden Leaf Vault</b></td><td>Zero-knowledge encrypted cloud storage & authentication service</td><td><code>Go</code> <code>Docker</code> <code>PostgreSQL</code></td><td align="center"><b>A-Rank</b></td></tr>
-<tr><td><b>🦊 Kurama Chakra Bot</b></td><td>Automated multi-agent orchestrator & developer automation pipeline</td><td><code>Python</code> <code>LangChain</code> <code>AI API</code></td><td align="center"><b>S-Rank</b></td></tr>
+<tr><th>Mission / Project</th><th>Description</th><th>Innate Cursed Technique</th><th align="center">Grade</th></tr>
+<tr><td><b>🔮 Unlimited Void Engine</b></td><td>Cinematic realtime 3D infinite cosmic web experience with custom WebGL/GLSL shaders</td><td><code>Three.js</code> <code>TypeScript</code> <code>GSAP</code></td><td align="center"><b>特級 Special</b></td></tr>
+<tr><td><b>🟣 Hollow Purple Pipeline</b></td><td>High-throughput asynchronous event-driven backend microservice processing millions of ops</td><td><code>Python</code> <code>FastAPI</code> <code>Docker</code></td><td align="center"><b>特級 Special</b></td></tr>
+<tr><td><b>⚡ Infinity Barrier UI</b></td><td>Apple-standard glassmorphism design system with untouchable zero-CLS layout responsiveness</td><td><code>React</code> <code>Next.js</code> <code>Tailwind</code></td><td align="center"><b>1級 Grade 1</b></td></tr>
+<tr><td><b>👁️ Six Eyes Telemetry</b></td><td>Distributed low-latency telemetry observability & sub-millisecond trace monitoring</td><td><code>Node.js</code> <code>Redis</code> <code>PostgreSQL</code></td><td align="center"><b>特級 Special</b></td></tr>
+<tr><td><b>🤞 Malevolent Shrine Vault</b></td><td>Zero-trust end-to-end cryptographic authentication service & secure data vault</td><td><code>Go</code> <code>OAuth2</code> <code>JWT</code></td><td align="center"><b>特級 Special</b></td></tr>
 </table>
 
 <br/>
 
 <div align="center">
 
-<img src="./rasengan-run.gif" alt="Naruto Running with Rasengan" width="150"/>
+### 🌃 Tokyo High Contribution City (3D Isometric Activity)
 
-### 🌃 My Contribution Village (3D Isometric Activity)
+*Every commit expands the domain — updated automatically every day at midnight.*
 
-*Every commit raises another tower in the village — updated automatically at midnight.*
-
-<img src="./profile-3d-contrib/profile-night-view.svg" onerror="this.src='./profile-3d-contrib/profile-git-block.svg'" alt="3D Contribution Village" width="100%"/>
+<img src="./profile-3d-contrib/profile-night-view.svg" onerror="this.src='./profile-3d-contrib/profile-git-block.svg'" alt="3D Contribution City" width="100%"/>
 
 <br/><br/>
 
-### 🐍 Chakra Snake (Eating My Commits)
+### 🟣 Cursed Energy Snake (Consuming Commits)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HUNTER0019-TECH/HUNTER0019-TECH/output/github-snake-orange.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HUNTER0019-TECH/HUNTER0019-TECH/output/github-snake-purple.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HUNTER0019-TECH/HUNTER0019-TECH/output/github-snake.svg">
-  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/HUNTER0019-TECH/HUNTER0019-TECH/output/github-snake-orange.svg" width="100%" />
+  <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/HUNTER0019-TECH/HUNTER0019-TECH/output/github-snake-purple.svg" width="100%" />
 </picture>
 
 <br/><br/>
 
 <!-- 💌 JOIN THE SQUAD / CONNECT -->
-<img src="./connect.svg?v=3" alt="Join The Squad — Let's Connect" width="100%"/>
+<img src="./connect.svg?v=gojo-1" alt="Special Grade Squad — Let's Connect" width="100%"/>
 
 <br/>
 
-<a href="https://github.com/HUNTER0019-TECH"><img src="https://img.shields.io/badge/GitHub-ff7a1a?style=for-the-badge&logo=github&logoColor=0b0d13" alt="GitHub"/></a>
-<a href="mailto:hunter.dev@example.com"><img src="https://img.shields.io/badge/Email-e2383f?style=for-the-badge&logo=gmail&logoColor=0b0d13" alt="Email"/></a>
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=ffffff" alt="LinkedIn"/></a>
-<a href="https://instagram.com"><img src="https://img.shields.io/badge/Instagram-c77dff?style=for-the-badge&logo=instagram&logoColor=0b0d13" alt="Instagram"/></a>
-<a href="https://x.com"><img src="https://img.shields.io/badge/X-1da1f2?style=for-the-badge&logo=x&logoColor=ffffff" alt="Twitter/X"/></a>
+<a href="https://github.com/HUNTER0019-TECH"><img src="https://img.shields.io/badge/GitHub-00e5ff?style=for-the-badge&logo=github&logoColor=080b11" alt="GitHub"/></a>
+<a href="https://discord.gg/marwadi"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=ffffff" alt="Discord"/></a>
+<a href="https://guns.lol/hunter0017"><img src="https://img.shields.io/badge/Guns.lol-a855f7?style=for-the-badge&logoColor=ffffff" alt="Guns.lol"/></a>
+<a href="https://marwadii.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=ffffff" alt="Portfolio"/></a>
+<a href="mailto:hunter.dev@example.com"><img src="https://img.shields.io/badge/Email-ef4444?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="Email"/></a>
 
 <br/><br/>
 
 <!-- 👁️ PROFILE VISITOR COUNTER -->
-<img src="https://komarev.com/ghpvc/?username=HUNTER0019-TECH&color=ff7a1a&style=for-the-badge&label=CHAKRA%20VISITORS" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=HUNTER0019-TECH&color=00e5ff&style=for-the-badge&label=SIX%20EYES%20VISITORS" alt="Profile views"/>
 
 <br/><br/>
 
-<img src="./chibi-walk.gif" alt="Chibi Naruto Walking" width="90"/>
-
-<br/>
-
-**Dattebayo — keep coding, keep growing.** 🍥
+**"Throughout Heaven and Earth, I alone am the honored one." — Satoru Gojo** 🤞🌌
 
 </div>
