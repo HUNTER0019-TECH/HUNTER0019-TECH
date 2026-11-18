@@ -86,7 +86,7 @@ text{font-family:'JBM',ui-monospace,Menlo,Consolas,monospace}
 
   <!-- LEFT COLUMN -->
   <text clip-path="url(#termClip)" x="52" y="68" font-size="13">
-    <tspan class="jbb" fill="#a855f7">gojo@tokyo-high</tspan><tspan fill="#8b93a7">:~$ </tspan><tspan fill="#eef1f7">ryoiki </tspan><tspan fill="#00e5ff">--unlimited-void</tspan>
+    <tspan class="jbb" fill="#a855f7">hunter@jodhpur</tspan><tspan fill="#8b93a7">:~$ </tspan><tspan fill="#eef1f7">ryoiki </tspan><tspan fill="#00e5ff">--unlimited-void</tspan>
   </text>
   <rect class="blink" x="487" y="56" width="7" height="15" fill="#a855f7"/>
 
