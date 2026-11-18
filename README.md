@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 🎬 HERO BANNER & INTRO -->
-<img src="./hero.svg" alt="Hi, I'm Hunter — Full-Stack Shinobi & Developer" width="100%"/>
+<img src="./hero.svg?v=3" alt="Hi, I'm Hunter — Full-Stack Shinobi & Developer" width="100%"/>
 
 <br/><br/>
 
@@ -11,17 +11,17 @@
 <br/>
 
 <!-- 🍥 MY NINJA WAY -->
-<img src="./ninja-way.svg" alt="My Ninja Way — What I Build" width="100%"/>
+<img src="./ninja-way.svg?v=3" alt="My Ninja Way — What I Build" width="100%"/>
 
 <br/><br/>
 
 <!-- 🔦 JUTSU ARSENAL (TECH STACK) -->
-<img src="./jutsu-stack.svg" alt="Jutsu Arsenal — Tech Stack" width="100%"/>
+<img src="./jutsu-stack.svg?v=3" alt="Jutsu Arsenal — Tech Stack" width="100%"/>
 
 <br/><br/>
 
 <!-- 🪪 NINJA REGISTRATION + LIVE MISSION DASHBOARD -->
-<img src="./ninja-id.svg" alt="Ninja Registration Card and Live Shinobi Dashboard" width="100%"/>
+<img src="./ninja-id.svg?v=3" alt="Ninja Registration Card and Live Shinobi Dashboard" width="100%"/>
 
 <br/><br/>
 
@@ -63,7 +63,7 @@
 <br/><br/>
 
 <!-- 💌 JOIN THE SQUAD / CONNECT -->
-<img src="./connect.svg" alt="Join The Squad — Let's Connect" width="100%"/>
+<img src="./connect.svg?v=3" alt="Join The Squad — Let's Connect" width="100%"/>
 
 <br/>
 
